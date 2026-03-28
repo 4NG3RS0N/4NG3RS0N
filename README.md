@@ -23,9 +23,6 @@ Morocco 🌍
 > status
 Always hunting for vulnerabilities...
 
-📡 SYSTEM DASHBOARD
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=4NG3RS0N&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=4NG3RS0N&theme=chartreuse-dark&background=0d1117&ring=00ffcc&fire=00ffcc"/> </p>
-
 ⚙️ TECH STACK
 Languages   : Assembly | Bash | C | C++ | Go | Java | JavaScript | Perl | PHP | PowerShell | Python | Ruby | Rust
 Security    : Bug Bounty | Cryptography Basics | Exploit Development | Malware Analysis | Malware Reverse Engineering | Network Security | OSINT | Privilege Escalation | Recon | Vulnerability Assessment | Web Application Security
@@ -44,14 +41,6 @@ OS          : Linux 🐧 (I use Arch btw)
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4NG3RS0N&theme=github_dark"/> </p>
 
-🧠 PHILOSOPHY
+🧠 MY PHILOSOPHY
 
 "Security is an illusion."
-
-🌐 CONNECT
-
-LinkedIn : in/saadnssiri
-Twitter  : https://x.com/lil_saad_xx
-Email    : saad.nssiri11@gmail.com
-
-<!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=100&section=footer"/> </p> ```
