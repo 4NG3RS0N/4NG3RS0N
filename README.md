@@ -10,7 +10,6 @@
 
 ---
 
-```bash
 > whoami
 Saad Nssiri
 
@@ -22,25 +21,33 @@ Morocco 🌍
 
 > status
 Always hunting for vulnerabilities...
+---
 
 ⚙️ TECH STACK
+---
 Languages   : Assembly | Bash | C | C++ | Go | Java | JavaScript | Perl | PHP | PowerShell | Python | Ruby | Rust
 Security    : Bug Bounty | Cryptography Basics | Exploit Development | Malware Analysis | Malware Reverse Engineering | Network Security | OSINT | Privilege Escalation | Recon | Vulnerability Assessment | Web Application Security
 Tools       : Burp Suite | Metasploit | Nmap | Wireshark
 OS          : Linux 🐧 (I use Arch btw)
 
 🕵️ ACTIVE OPERATIONS
-
+---
 [+] Running recon automation scripts
 [+] Hunting bugs on live targets
 [+] Studying advanced web exploitation
 [+] Building offensive security tools
 [-] Sleeping (disabled)
+---
 
 📊 TRAFFIC MONITOR
-
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4NG3RS0N&theme=github_dark"/> </p>
+---
+<!-- TRAFFIC MONITOR SUMMARY -->
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4NG3RS0N&theme=github_dark"/>
+</p>
+---
 
 🧠 MY PHILOSOPHY
-
+---
 "Security is an illusion."
+---
