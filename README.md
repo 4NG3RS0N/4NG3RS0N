@@ -1,6 +1,6 @@
 <!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=120&section=header&text=4NG3RS0N %20%7C%20Cyber%20Security&fontColor=00ffcc&fontSize=30&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a1a&height=120&section=header&text=4NG3RS0N%20%7C%20Cyber%20Security&fontColor=00ffcc&fontSize=30&animation=fadeIn"/>
 </p>
 
 <!-- TYPING TERMINAL EFFECT -->
