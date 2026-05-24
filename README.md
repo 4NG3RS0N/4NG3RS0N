@@ -26,9 +26,9 @@ Always hunting for vulnerabilities...
 ⚙️ TECH STACK
 ---
 Languages   : Assembly | Bash | C | C++ | Go | Java | JavaScript | Perl | PHP | PowerShell | Python | Ruby | Rust
-Security    : Bug Bounty | Cryptography Basics | Exploit Development | Malware Analysis | Malware Reverse Engineering | Network Security | OSINT | Privilege Escalation | Recon | Vulnerability Assessment | Web Application Security
-Tools       : Burp Suite | Metasploit | Nmap | Wireshark
-OS          : Linux 🐧 (I use Fedora Gnome btw)
+Security    : Bug Bounty | Cryptography Basics | Exploit Development | Malware Analysis | Malware Reverse Engineering | Network Security | OSINT | Privilege Escalation  | Recon | Vulnerability Assessment | Web Application Security
+Tools       : Burp Suite | Metasploit | Angry IP Scanner | Nmap | Wireshark
+OS          : Linux 🐧 (I use Arch btw) lol
 
 🕵️ ACTIVE OPERATIONS
 ---
