@@ -1,13 +1,16 @@
 # 👾 [PROFILER] // Saad Nssiri (4ng3rs0n)
 
-<!-- Terminal Window Wrapper -->
-<div align="center">
+<p align="center">
   <img src="https://githubusercontent.com" alt="Saad Nssiri Banner" width="100%">
-</div>
+</p>
 
-<br />
+<!-- Live Animated Terminal Typing Script Engine -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://demolab.com." alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Terminal Header Visual Emulator -->
 ```bash
 ~$ neofetch --profile --user 4ng3rs0n
 ```
