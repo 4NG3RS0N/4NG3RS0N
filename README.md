@@ -1,11 +1,15 @@
 # 👾 [PROFILER] // Saad Nssiri (4ng3rs0n)
 
-<p align="center">
+<!-- Terminal Window Wrapper -->
+<div align="center">
   <img src="https://githubusercontent.com" alt="Saad Nssiri Banner" width="100%">
-</p>
+</div>
 
+<br />
+
+<!-- Terminal Header Visual Emulator -->
 ```bash
-~$ neofetch --profile
+~$ neofetch --profile --user 4ng3rs0n
 ```
 ```text
        /\        saad@archlinux
@@ -49,20 +53,6 @@
 
 ## 💾 Core Infrastructure Log (Languages & Tooling)
 
-```text
-Development -->  [JavaScript] [TypeScript] [Python] [Node.js] [React] [Vite]
-Security    -->  [Kali Linux] [Wireshark]  [Metasploit] [Nmap] [Burp Suite]
-SysOps      -->  [Arch Linux] [Bash]       [Docker]     [Git]  [OpenVPN]
-```
-
----
-
-## 🔗 Secure Communications Node
-
-```text
-┌────────────────────────────────────────────────────────┐
-│  Discord   :: 4ng3rs0n                                 │
-│  LinkedIn  :: https://www.linkedin.com/in/saadnssiri/  │
-│  GitHub    :: https://github.com/4ng3rs0n              │
-└────────────────────────────────────────────────────────┘
-```
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="
