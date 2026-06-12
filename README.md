@@ -4,10 +4,10 @@
   <img src="https://githubusercontent.com" alt="Saad Nssiri Banner" width="100%">
 </p>
 
-<!-- Live Animated Terminal Typing Script Engine -->
+<!-- Live Animated Terminal Typing Script Engine (Fixed Server URL) -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://demolab.com." alt="Typing SVG" />
+  <a href="https://github.com/denvercoder1/readme-typing-svg">
+    <img src="https://herokuapp.com." alt="Typing SVG" />
   </a>
 </p>
 
@@ -58,4 +58,21 @@
 
 <p align="left">
   <img src="https://shields.io" />
-  <img src="
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+---
+
+## 🔗 Secure Communications Node
+
+```text
+┌────────────────────────────────────────────────────────┐
+│  Discord   :: 4ng3rs0n                                 │
+│  LinkedIn  :: https://www.linkedin.com/in/saadnssiri/  │
+│  GitHub    :: https://github.com/4ng3rs0n              |
+└────────────────────────────────────────────────────────┘
+```
