@@ -4,26 +4,6 @@
   <img src="https://githubusercontent.com" alt="Saad Nssiri Banner" width="100%">
 </p>
 
-<!-- Native HTML/CSS Glowing Terminal Banner - No External API Needed -->
-<div align="center">
-  <div style="background-color: #0d1117; border: 1px solid #238636; border-radius: 6px; padding: 15px; max-width: 700px; font-family: 'Fira Code', monospace; text-align: left; box-shadow: 0 4px 20px rgba(0,0,0,0.5);">
-    <div style="display: flex; margin-bottom: 10px;">
-      <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-      <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-      <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block;"></span>
-    </div>
-    <p style="color: #39FF14; margin: 0; font-size: 16px; line-height: 1.5;">
-      <span style="color: #8b949e;">~\$</span> initialization complete...<br>
-      <span style="color: #8b949e;">~\$</span> core.roles = ["Full-Stack Dev", "CTF Player", "Penetration Tester"]<br>
-      <span style="color: #8b949e;">~\$</span> system.env = "Arch Linux (Vite + React + Node.js)"<br>
-      <span style="color: #8b949e;">~\$</span> status = "Offline-first advocate & mesh networking tinkerer"<br>
-      <span style="color: #39FF14; animation: blink 1s infinite;">█</span> _
-    </p>
-  </div>
-</div>
-
-<br />
-
 ```bash
 ~$ neofetch --profile --user 4ng3rs0n
 ```
